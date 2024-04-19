@@ -1,0 +1,14 @@
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\Conversor de Temperatura.exe
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\Conversor de Temperatura.deps.json
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\Conversor de Temperatura.runtimeconfig.json
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\Conversor de Temperatura.dll
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\Conversor de Temperatura.pdb
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.AssemblyInfoInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.AssemblyInfo.cs
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.dll
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\refint\Conversor de Temperatura.dll
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.pdb
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\Conversor de Temperatura.genruntimeconfig.cache
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\obj\Release\net8.0\ref\Conversor de Temperatura.dll

@@ -1,0 +1,5 @@
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\publish\Conversor de Temperatura.exe
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\publish\Conversor de Temperatura.dll
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\publish\Conversor de Temperatura.deps.json
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\publish\Conversor de Temperatura.runtimeconfig.json
+C:\Users\luca3\Programas\Estudos\C#\Conversor de Temperatura\bin\Release\net8.0\publish\Conversor de Temperatura.pdb
